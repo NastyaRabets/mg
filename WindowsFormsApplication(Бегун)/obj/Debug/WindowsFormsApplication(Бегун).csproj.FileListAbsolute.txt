@@ -1,0 +1,9 @@
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\bin\Debug\WindowsFormsApplication(Бегун).exe.config
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\bin\Debug\WindowsFormsApplication(Бегун).exe
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\bin\Debug\WindowsFormsApplication(Бегун).pdb
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\obj\Debug\WindowsFormsApplication(Бегун).csprojResolveAssemblyReference.cache
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\obj\Debug\WindowsFormsApplication_Бегун_.Form1.resources
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\obj\Debug\WindowsFormsApplication_Бегун_.Properties.Resources.resources
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\obj\Debug\WindowsFormsApplication(Бегун).csproj.GenerateResource.Cache
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\obj\Debug\WindowsFormsApplication(Бегун).exe
+c:\users\office\documents\visual studio 2012\Projects\WindowsFormsApplication(Бегун)\WindowsFormsApplication(Бегун)\obj\Debug\WindowsFormsApplication(Бегун).pdb
